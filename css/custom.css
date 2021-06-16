@@ -11,12 +11,12 @@
    cursor: pointer;
  }
  #site-title:hover {
-   background-color: #9317B3;
+   background-color: #FFB6C1;
    color: #050801;
-   box-shadow: 0 0 5px #9317B3,
-               0 0 25px #9317B3,
-               0 0 50px #9317B3,
-               0 0 200px #d322ff;
+   box-shadow: 0 0 5px #FFB6C1,
+               0 0 25px #FFB6C1,
+               0 0 50px #FFB6C1,
+               0 0 200px #FFB6C1;
    cursor: url('/cursor/Purple/NeonLinkSelect03-Purple.cur'),auto;
  }
 
